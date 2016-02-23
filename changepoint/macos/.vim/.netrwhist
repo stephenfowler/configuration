@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/rmccallum/src/configuration/changepoint/macos'
+let g:netrw_dirhist_2='/Users/rmccallum/src/configuration'
+let g:netrw_dirhist_3='/Users/rmccallum/src/configuration/linux'
+let g:netrw_dirhist_4='/Users/rmccallum/src/configuration/linux/libraries'
+let g:netrw_dirhist_5='/Users/rmccallum/src/configuration/changepoint'
+let g:netrw_dirhist_6='/Users/rmccallum/.vagrant.d/boxes'
